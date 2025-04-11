@@ -1,5 +1,4 @@
-// This must be package main
-package main
+package plugin
 
 import (
 	"go.uber.org/nilaway"
